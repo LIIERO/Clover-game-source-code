@@ -1,0 +1,4 @@
+Wow, that was a big explosion,
+unfortunately it destroyed the password.
+Try to achieve the same effect
+with less destructive methods.
